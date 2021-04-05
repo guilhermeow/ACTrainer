@@ -7,7 +7,3 @@
 # How to Use
  - The "F1" key activates and deactivates the infinite ammo option.
  - The "F12" key exit the program.
-
-# Contributors
-  - sickog0d
-  - The [SrShadowy](https://github.com/SrShadowy) helped me most.
