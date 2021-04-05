@@ -7,3 +7,6 @@
 # How to Use
  - The "F1" key activates and deactivates the infinite ammo option.
  - The "F12" key exit the program.
+
+# LICENCE
+- [MIT](https://github.com/sickog0d/ACTrainer/blob/main/LICENSE)
