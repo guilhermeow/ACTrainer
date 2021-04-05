@@ -10,4 +10,4 @@
 
 # Contributors
   - sickog0d
-> The [SrShadowy](https://github.com/SrShadowy) helped me most
+  - The [SrShadowy](https://github.com/SrShadowy) helped me most.
