@@ -2,7 +2,7 @@
    ![ProgramVisual](images/unknown.png)
    ![ProgramVisual2](images/process.png)
 # Informations 
- > External trainer developed in c++ for a game AssaultCube using the function `WriteProcessMemory` to touch the memory.
+ > External hack developed in c++ for game AssaultCube using the function `WriteProcessMemory` to change the memory and `ReadProcessMemory` to read the process memor
 
 # How to Use
  - The `F1` key activates and deactivates the infinite ammo option.
